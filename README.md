@@ -13,11 +13,8 @@ Interstellar is one of the best modern unblocked game sites. Check it out <a hre
 **Note:**  All of the built-in games will **NOT** work on certain devices, since these devices are only compatable with certain games.
   
  
-# LINKS
+# LINK PAGE
 I Try to update these links daily so if it is offline I  will fix it
-https://interstellar-uc9e.onrender.com
-https://bubbo-3s4w.onrender.com
-https://undetectablecloud.onrender.com
-https://cloudsavesdata.onrender.com
-**NOTE**:All of these links may not work
+   #  https://github.com/imatyourhouse/interstellarlinks
+   THIS LINK ABOVE WILL TAKE YOU TO THE INTERSTELLAR COMMUNITY LINK PAGE
 
